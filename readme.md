@@ -1,16 +1,16 @@
-<h1 align="center"><b>Welcome, I am Heershi!</b></h1>
-<h3 align="center"><b>Computer Science Student & Co-Founder at Zernul.</b></h3>
+<h1 align="center"><b>Welcome to my profile</b></h1>
+<h3 align="center"><b>Computer Science Student.</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeershiB&label=Profile%20views&color=0e75b6&style=flat" alt="HeershiB" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBlckAnt&label=Profile%20views&color=0e75b6&style=flat" alt="TheBlckAnt" /> </p>
 
 
- 👨‍💻 Current Focus: Web Design with AI & Marketing 
+ 👨‍💻 Current Focus: Game Development & 3D Printing
  
 ---
 
 Find the website:
 
-https://zernul.com/
+
 
 
 
@@ -21,7 +21,7 @@ https://zernul.com/
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeershiB&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBlckAnt&show_icons=true&theme=tokyonight)
 
 
 
