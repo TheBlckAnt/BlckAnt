@@ -21,7 +21,7 @@ Find the website:
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBlckAnt&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlckAnt&show_icons=true&theme=tokyonight)
 
 
 
