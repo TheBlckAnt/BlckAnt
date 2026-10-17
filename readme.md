@@ -1,7 +1,7 @@
 <h1 align="center"><b>Welcome to my profile</b></h1>
 <h3 align="center"><b>Computer Science Student.</b></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheBlckAnt&label=Profile%20views&color=0e75b6&style=flat" alt="TheBlckAnt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BlckAnt&label=Profile%20views&color=0e75b6&style=flat" alt="BlckAnt" /> </p>
 
 
  👨‍💻 Current Focus: Game Development & 3D Printing
